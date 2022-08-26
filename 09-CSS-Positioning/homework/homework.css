@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*
 Lección 3: Tarea de posicionamiento con CSS. Todo el trabajo debe hacerse en este archivo, por lo que si estás tocando cualquier otro
 archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
@@ -9,133 +8,31 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
 
-    display: block;
-    text-align: center;
-    
 }
 
 
 /* Ejercicio 2: Posicionar el header */
 
-#ejercicioDos {
-
-   visibility: hidden;
-    
-}
+/* Acá va tu código */
 
 
 
 /* Ejercicio 3: */
 
-#ejercicioTres {
+/* Acá va tu código */
 
-    margin-top: 100px;
-    margin-left: 200px;
-     
- }
+
 
 /* Ejercicio 4: */
 
-#ejercicioCuatro {
-    position:absolute;
-    top: 0;
-   
- }
+/* Acá va tu código */
+
 
 
 /* Ejercicio 5: */
 
-#ejercicioCinco {
-    display: flex;
-    justify-content: space-between; 
-    align-items: center;
- }
+/* Acá va tu código */
 
 
 
 /* Ejercicio 6. */
-
-#ejercicioCinco {
-    display: flex;
-    flex-direction: row-reverse;
- }
-
-#ejercicioSiete{
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: flex-end;
-    }
-
-    
-}
-=======
-/*
-Lección 3: Tarea de posicionamiento con CSS. Todo el trabajo debe hacerse en este archivo, por lo que si estás tocando cualquier otro
-archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
-*/
-
-/* Ejercicio 1: Centrar el texto en un span */
-
-/* Arrancaremos este ejercicio por vos: */
-#ejercicioUno {
-
-    display: block;
-    text-align: center;
-    
-}
-
-
-/* Ejercicio 2: Posicionar el header */
-
-#ejercicioDos {
-
-   visibility: hidden;
-    
-}
-
-
-
-/* Ejercicio 3: */
-
-#ejercicioTres {
-
-    margin-top: 100px;
-    margin-left: 200px;
-     
- }
-
-/* Ejercicio 4: */
-
-#ejercicioCuatro {
-    position:absolute;
-    top: 0;
-   
- }
-
-
-/* Ejercicio 5: */
-
-#ejercicioCinco {
-    display: flex;
-    justify-content: space-between; 
-    align-items: center;
- }
-
-
-
-/* Ejercicio 6. */
-
-#ejercicioCinco {
-    display: flex;
-    flex-direction: row-reverse;
- }
-
-#ejercicioSiete{
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: flex-end;
-    }
-
-    
-}
->>>>>>> c9812fead879dd316c22f3f2756933468d71fb6d
